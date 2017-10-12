@@ -1,5 +1,5 @@
 {
-  "name": "geojson-flow",
+  "name": "@k/geojson-flow",
   "version": "1.0.1",
   "description": "GeoJSON type declarations for Flow",
   "main": "types.js",
